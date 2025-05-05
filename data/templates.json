@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1746442909220,
+    "templateName": "Vintage Tea Emporium Review Form",
+    "type": "SmileRating",
+    "requireComment": true,
+    "requireUsername": false,
+    "config": {},
+    "companyId": 1746200263776
+  }
+]

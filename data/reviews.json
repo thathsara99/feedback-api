@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1746454316265,
+    "userName": "vintageCustomer1299",
+    "type": "questionnaire",
+    "data": {
+      "questions": [
+        {
+          "question": "How was the service?",
+          "answer": "Excellent"
+        },
+        {
+          "question": "Would you return?",
+          "answer": "Absolutely"
+        }
+      ]
+    },
+    "comment": "Amazing experience!",
+    "datetime": "2025-05-05T14:00:00Z",
+    "companyId": 1746200263776
+  },
+  {
+    "id": 1746454479911,
+    "userName": "vintageCustomer4389",
+    "type": "star",
+    "data": {
+      "rating": 4
+    },
+    "comment": "The service was really good, but there’s room for improvement.",
+    "datetime": "2025-05-05T10:30:00Z",
+    "companyId": 1746200263776
+  }
+]
